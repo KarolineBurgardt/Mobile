@@ -1,0 +1,17 @@
+@import url('
+
+body { font: 12pt Arial; }
+h1, h2, h3 { font-family: 'Pacifico', cursive; font-weight: normal;}
+button { font-size: 12pt; padding: 30px; }
+
+body {
+
+    background-color: rgb(250, 246, 44);
+    max-width: 500px;
+    width: 70%;
+    padding: 20px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    bottom: color rgb(247, 212, 14) ;}
